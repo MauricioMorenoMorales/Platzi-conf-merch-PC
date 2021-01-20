@@ -9,7 +9,6 @@ import NotFound from '../containers/NotFound';
 import Layout from '../components/Layout';
 
 const App = () => {
-  const xd = 'xd';
   return (
     <BrowserRouter>
       <Layout>
